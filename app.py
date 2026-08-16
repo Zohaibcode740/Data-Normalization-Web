@@ -20,9 +20,7 @@ def detect_dataset_type_offline(df):
         return "❓ Unknown / Miscellaneous Data"
 
 
-# -------------------------
-# ⚙️ Streamlit Page Setup
-# -------------------------
+
 st.set_page_config(page_title="Smart Data Normalizer", page_icon="📊", layout="wide")
 
 # -------------------------
