@@ -2,10 +2,6 @@ import streamlit as st
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from io import BytesIO
-
-# -------------------------
-# 🎯 Offline Dataset Type Detection
-# -------------------------
 def detect_dataset_type_offline(df):
     cols = [c.lower() for c in df.columns]
     if any(k in cols for k in ["employee", "salary", "age", "department", "job", "position", "hr"]):
