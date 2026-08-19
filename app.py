@@ -23,9 +23,6 @@ def detect_dataset_type_offline(df):
 
 st.set_page_config(page_title="Smart Data Normalizer", page_icon="📊", layout="wide")
 
-# -------------------------
-# 💅 Custom Dark Theme CSS
-# -------------------------
 st.markdown("""
 <style>
 body {
@@ -105,9 +102,7 @@ h1, h2, h3 {
 </style>
 """, unsafe_allow_html=True)
 
-# -------------------------
-# 🧠 App Content
-# -------------------------
+
 st.title("📊 Smart Data Normalizer (Dark Mode)")
 st.markdown("### Upload your dataset, detect its type, and normalize numeric columns automatically — now in a **sleek dark blue theme.**")
 
