@@ -5,6 +5,8 @@ A **Streamlit web app** that automatically detects dataset type (like Employee, 
 > 💡 Originally designed to work with OpenAI / Google Gemini APIs, but now optimized for offline use — no API key or internet required!
 
 ---
+# Data WorkFlow
+![logo](https://github.com/Zohaibcode740/Zohaibcode740/blob/main/%40Syed%20Zohaib%20ALi.png)
 
 ## 🚀 Features
 
