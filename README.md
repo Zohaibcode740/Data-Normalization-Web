@@ -6,7 +6,7 @@ A **Streamlit web app** that automatically detects dataset type (like Employee, 
 
 ---
 # Data WorkFlow
-![logo](https://github.com/Zohaibcode740/Zohaibcode740/blob/main/%40Syed%20Zohaib%20ALi.png)
+![logo](https://github.com/Zohaibcode740/Data-Normalization-Web/blob/main/image_719e6af1.jpg)
 
 ## 🚀 Features
 
